@@ -1,12 +1,11 @@
+import "./main";
 
 function App() {
-
   return (
     <>
-    <div>Hello World!</div>
-       
+      <div class="text-2xl text-red-500 bg-black">Hello World!</div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
